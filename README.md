@@ -1,6 +1,6 @@
 # doubanIMDb
 
-豆瓣电影 + IMDb + 烂番茄
+豆瓣电影 + IMDb + 烂番茄 + 维基百科
 
 ![screenshots](http://i.imgur.com/U6MGE.jpg)
 
@@ -71,4 +71,4 @@ Then run the following:
 
 ## Reference
 
-Thanks to the great [Web Extension Starter](https://github.com/abhijithvijayan/.web-extension-starter).
+Thanks to the great [Web Extension Starter](https://github.com/abhijithvijayan/web-extension-starter).
